@@ -6,3 +6,4 @@ Had a great fall
 
 Apache Licnese sample
 License vs Licensor vs Legal Entity
+Work vs Derivative Works
