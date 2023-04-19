@@ -1,2 +1,3 @@
-##This is a simple README fileHumpty Dumpty
+##This is a simple README file
+Humpty Dumpty
 Sat on a wall
