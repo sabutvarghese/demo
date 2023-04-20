@@ -10,6 +10,3 @@ Work vs Derivative Works
 License vs Licensor vs Legal Entity
 
 
-Added from the update branch
-
-Is this a problem
