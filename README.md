@@ -8,3 +8,6 @@ Apache Licnese sample
 License vs Licensor vs Legal Entity
 Work vs Derivative Works
 License vs Licensor vs Legal Entity
+
+
+Added from the update branch
